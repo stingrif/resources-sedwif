@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://stingrif.github.io/resources-sedwif/sitemap.xml
